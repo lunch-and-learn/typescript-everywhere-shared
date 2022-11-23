@@ -1,0 +1,16 @@
+{
+  "name": "lunch-learn-typescript-shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "types.js",
+  "types": "types.ts",
+  "scripts": {
+    "build": "tsc types.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
